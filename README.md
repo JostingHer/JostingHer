@@ -1,14 +1,13 @@
 # 💫 About Me:
-Hola!! Soy Josting Hernandez, un estudiante apasionado de Desarrollo Web con una sólida formación en Administración y Dirección de Empresas (ADE) de la Universidad de Zaragoza (UNIZAR). Después de dos años de estudio en ADE, decidí enfocar mi carrera hacia el desarrollo web para explorar mi interés en la tecnología. Actualmente, estoy inmerso en mi formación en Desarrollo de Aplicaciones Web (DAW), donde he adquirido habilidades significativas en frontend (HTML5, CSS3, SASS, Bootstrap, JavaScript) y backend (Java, Oracle, MySQL).<br><br>Mi objetivo actual es encontrar oportunidades de prácticas en el mundo tecnológico para seguir desarrollando mis habilidades y experiencia. A largo plazo, tengo la ambición de combinar mi experiencia en desarrollo web con mi interés en ADE, retomando mis estudios en esta área para explorar la fascinante intersección entre tecnología y finanzas. Creo firmemente que esta combinación de habilidades me permitirá abordar desafíos complejos desde perspectivas diversas y ofrecer soluciones innovadoras en el ámbito empresarial. ¡Estoy emocionado por lo que el futuro me depara y estoy listo para enfrentar nuevos desafíos con entusiasmo y determinación!
-
+Hola!! soy Josting Hernández, un apasionado Desarrollo Web especializado en el parte Fron-end. Actualmente estoy inmerso en mi formación de Técnico Superior de Desarrollo de Aplicaciones Web (DAW), donde he adquirido habilidades significativas en frontend (HTML5, CSS, Sass, JavaScript) y también en backend (Java, Oracle, PHP, MySQL)
 
 ## 🌐 Socials:
 
-Web personal: https://portfoliowebdeveloperjostinghernandez.netlify.app/
+Web: https://portfoliowebdeveloperjostinghernandez.netlify.app/
 
 Linkedin: https://www.linkedin.com/in/josting-molina-hern%C3%A1ndez/
 
-Discord Link: https://discordapp.com/users/714722968709627945
+Discord: https://discordapp.com/users/714722968709627945
 
 
 # 💻 Tech Stack:
