@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola!! soy Josting Hernández, un apasionado Desarrollo Web especializado en el parte Fron-end. 
 
-- He desarrollado aplicaciones web a medida utilizando tecnologías como React, Next.js, Astro, TypeScript y SASS, junto con Figma para el diseño y prototipado. Además, empleo metodologías como BEM, ITCSS, y el enfoque Mobile First, asegurando la calidad del código con herramientas como Stylelint y ESLint.
+- He desarrollado aplicaciones web a medida utilizando tecnologías como React, Next.js, Astro, TypeScript y Sass, junto con Figma para el diseño y prototipado. Además, empleo metodologías como BEM, ITCSS, y el enfoque Mobile First, asegurando la calidad del código con herramientas como Stylelint y ESLint.
 
 - He integrado headless CMS como Sanity para la gestión de contenido dinámico, utilizando GraphQL o GROQ, y desplegado proyectos en plataformas serverless como Netlify, integrando Git para control de versiones y despliegue continuo. Además, aplico metodologías como Domain Driven Design (DDD) y arquitectura hexagonal para crear aplicaciones robustas y escalables. 
 
