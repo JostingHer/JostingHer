@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola!! soy Josting Hernández, un apasionado Desarrollo Web especializado en el parte Fron-end. 
+Hola!! Soy Josting Hernández, un apasionado Desarrollo Web especializado en Front-end. 
 
 - He desarrollado aplicaciones web a medida utilizando tecnologías como React, Next.js, Astro, TypeScript y Sass, junto con Figma para el diseño y prototipado. Además, empleo metodologías como BEM, ITCSS, y el enfoque Mobile First, asegurando la calidad del código con herramientas como Stylelint y ESLint.
 
