@@ -12,7 +12,7 @@ Actualmente estoy inmerso en mi formación de Técnico Superior de Desarrollo de
 
 ## 🌐 Socials:
 
-Web Personal: https://portfoliowebdeveloperjostinghernandez.netlify.app/
+Web Personal: https://portfoliowebdeveloperjostinghernandez.netlify.app/ ( Toca urgentemente actualizarlo )
 
 Linkedin: https://www.linkedin.com/in/josting-molina-hern%C3%A1ndez/
 
