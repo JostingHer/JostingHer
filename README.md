@@ -1,6 +1,6 @@
 # 💫 Sobre Mí
 
-¡Hola! Soy **Josting Hernández**, un apasionado **Desarrollador Web Frontend** con experiencia en React, TypeScript y Astro, explorando la intersección entre **tecnología, marketing y negocios**.  
+Holaa! Soy **Josting Hernández**, un apasionado **Desarrollador Web Frontend** con experiencia en React, TypeScript y Astro, explorando la intersección entre **tecnología, marketing y negocios**.  
 
 - He desarrollado aplicaciones web a medida utilizando **React, Next.js, Astro, TypeScript, JavaScript y CSS (Sass)**, combinando diseño y prototipado en **Figma**. Para los estilos aplico metodologías como **BEMIT, ITCSS y Mobile First**, asegurando calidad con herramientas como **Stylelint** y **ESLint**.  
 
