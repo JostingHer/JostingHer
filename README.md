@@ -1,32 +1,20 @@
-# 💫 Sobre Mí
+# 💫 About Me:
+Holaa! Soy Josting Hernández, un creativo Desarrollador Web Frontend con experiencia en React, TypeScript y Astro, con una gran curiosidad en la tecnología, marketing y negocios.<br><br>He desarrollado aplicaciones web a medida utilizando React, Next.js, Astro, TypeScript, JavaScript y CSS (Sass), combinando diseño y prototipado en Figma. Para los estilos aplico metodologías como BEMIT, ITCSS y Mobile First, asegurando calidad con herramientas como Stylelint y ESLint.<br><br>He integrado headless CMS (Sanity.io) para la gestión de contenido dinámico, utilizando GraphQL/GROQ, y he desplegado proyectos en plataformas serverless como Netlify, con Git para control de versiones y despliegue continuo. También aplico principios de Domain Driven Design (DDD) y arquitectura hexagonal para crear aplicaciones robustas y escalables.<br><br>Desarrollo y mantengo más de 10 sitios web para clientes en mi trabajo actual, priorizando SEO, accesibilidad y compatibilidad entre navegadores, optimizando el rendimiento para obtener puntuaciones superiores al 90% en Google Core Web Vitals, y aplicando buenas prácticas de maquetación web.<br><br>Actualmente, compagino mi trabajo como Desarrollador Web con el segundo año de la carrera de ADE, explorando mi camino hacia un perfil de Fullstack Marketer, combinando desarrollo, marketing digital y visión de negocio.
 
-Holaa! Soy **Josting Hernández**, un apasionado **Desarrollador Web Frontend** con experiencia en React, TypeScript y Astro, explorando la intersección entre **tecnología, marketing y negocios**.  
 
-- He desarrollado aplicaciones web a medida utilizando **React, Next.js, Astro, TypeScript, JavaScript y CSS (Sass)**, combinando diseño y prototipado en **Figma**. Para los estilos aplico metodologías como **BEMIT, ITCSS y Mobile First**, asegurando calidad con herramientas como **Stylelint** y **ESLint**.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josting-hernandez/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jostingjmhernadez@gmail.com) 
 
-- He integrado **headless CMS** (Sanity.io) para la gestión de contenido dinámico, utilizando **GraphQL/GROQ**, y he desplegado proyectos en plataformas serverless como **Netlify**, con **Git** para control de versiones y despliegue continuo. También aplico principios de **Domain Driven Design (DDD)** y **arquitectura hexagonal** para crear aplicaciones robustas y escalables.  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-- Desarrollo y mantengo más de **10 sitios web para clientes** en mi trabajo actual, priorizando **SEO, accesibilidad y compatibilidad entre navegadores**, optimizando el rendimiento para obtener puntuaciones superiores al 90% en **Google Core Web Vitals**, y aplicando buenas prácticas de maquetación web.  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JostingHer&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JostingHer&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JostingHer&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Actualmente, compagino mi trabajo como **Desarrollador Web** con el segundo año de la carrera de **ADE**, explorando mi camino hacia un perfil de **Fullstack Marketer**, combinando desarrollo, marketing digital y visión de negocio.  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JostingHer&theme=darcula&no-frame=false&no-bg=false&margin-w=4)
 
----
 
-## 🌐 Redes y Portafolio
 
-- **Web Personal:** https://portfoliowebdeveloperjostinghernandez.netlify.app/ _(actualización pendiente)_  
-- **LinkedIn:** [https://www.linkedin.com/in/josting-molina-hernández/](https://www.linkedin.com/in/josting-molina-hern%C3%A1ndez/)  
-
----
-
-## 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%2300cfff.svg?style=for-the-badge&logo=astro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JostingHer&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=JostingHer&icon=0&color=0)](https://visitcount.itsvg.in)
