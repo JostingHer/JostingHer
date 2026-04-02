@@ -1,5 +1,10 @@
 # 💫 About Me:
-Holaa! Soy Josting Hernández, un creativo Desarrollador Web Frontend con experiencia en React, TypeScript y Astro, con una gran curiosidad en la tecnología, marketing y negocios.<br><br>He desarrollado aplicaciones web a medida utilizando React, Next.js, Astro, TypeScript, JavaScript y CSS (Sass), combinando diseño y prototipado en Figma. Para los estilos aplico metodologías como BEMIT, ITCSS y Mobile First, asegurando calidad con herramientas como Stylelint y ESLint.<br><br>He integrado headless CMS (Sanity.io) para la gestión de contenido dinámico, utilizando GraphQL/GROQ, y he desplegado proyectos en plataformas serverless como Netlify, con Git para control de versiones y despliegue continuo. También aplico principios de Domain Driven Design (DDD) y arquitectura hexagonal para crear aplicaciones robustas y escalables.<br><br>Desarrollo y mantengo más de 10 sitios web para clientes en mi trabajo actual, priorizando SEO, accesibilidad y compatibilidad entre navegadores, optimizando el rendimiento para obtener puntuaciones superiores al 90% en Google Core Web Vitals, y aplicando buenas prácticas de maquetación web.<br><br>Actualmente, compagino mi trabajo como Desarrollador Web con el segundo año de la carrera de ADE, explorando mi camino hacia un perfil de Fullstack Marketer, combinando desarrollo, marketing digital y visión de negocio.
+
+Soy Josting Hernández, Desarrollador de Software especializado en frontend con 2 años de experiencia en la creación de sitios web accesibles, rápidos y orientados a la conversión. Trabajo con tecnologías como React, TypeScript y Astro, colaborando con equipos de UX/UI, marketing y producto en proyectos enfocados en SEO, captación de leads y rendimiento.
+
+Comencé en 2022 mientras estudiaba ADE, cuando descubrí el desarrollo web y decidí enfocarme plenamente en ello, formándome como Técnico Superior en Desarrollo de Aplicaciones Web (DAW) y desarrollando proyectos propios.
+
+Actualmente trabajo en TheCookies Agency, donde participo en el desarrollo y mantenimiento de más de 10 sitios web para clientes, y compagino esta experiencia con mis estudios en ADE. Mi objetivo es seguir creciendo como desarrollador, combinando tecnología, negocio y visión de producto.
 
 
 ## 🌐 Socials:
